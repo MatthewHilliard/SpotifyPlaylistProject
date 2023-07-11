@@ -14,7 +14,7 @@ pip install spotipy
 pip install openai
 pip install flask
  ```
-- **Step 4:** Clone and install this repository to your machine and open the folder in your favorite IDE.
+- **Step 4:** Install this repository to your machine and open the folder in your favorite IDE.
 
 In app.py, replace "YOUR API KEY" on line 12 with your Open AI API key from step 1.
 
