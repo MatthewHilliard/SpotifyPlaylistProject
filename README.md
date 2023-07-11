@@ -33,4 +33,8 @@ export SPOTIPY_CLIENT_ID = "YOUR CLIENT ID"
 export SPOTIPY_CLIENT_SECRET = "YOUR CLIENT SECRET"
 export SPOTIPY_REDIRECT_URI = "http://127.0.0.1:8080/"
  ```
-- **Step 5:** In your terminal run python3 app.py and open the local dev server http://127.0.0.1:5000
+- **Step 5:** In your terminal run
+```bash
+python3 app.py
+```
+and open the local dev server http://127.0.0.1:5000
